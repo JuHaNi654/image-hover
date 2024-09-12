@@ -1,5 +1,5 @@
 # Split image hover efect with threejs library.
-Image are is splitted to smaller panes that displays 2 different image by flipping each pane.
+Image are is splitted to smaller panes that displays 2 different image by flipping each plane.
 Also has left|right controls to move image element from left to right or otherway
 
 # Resources 
